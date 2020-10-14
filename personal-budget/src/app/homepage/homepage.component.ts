@@ -47,6 +47,6 @@ export class HomepageComponent implements OnInit {
         type: 'pie',
         data: this.dataSource
     })
-}
+  }
 
 }
